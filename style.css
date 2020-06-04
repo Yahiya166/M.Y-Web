@@ -1,0 +1,49 @@
+
+.tooper{
+    text-align: center;
+    padding: 20px;
+}
+
+
+a, li{
+    font-weight: bold;
+    padding-left:70px;
+    color: #ffff !important;
+
+   
+}
+
+.navbar{
+    text-align: center;
+}
+
+
+
+.card1,.card2,.card3{
+    display: inline-block !important;
+    box-shadow: 4px 5px 4px black;
+    border: 2px solid #a70413 !important;
+    margin-left: 140px;
+    margin-top: 20px;
+    padding: 40px;
+    width: 18rem;   
+}
+
+
+/* .card2,.card3{
+    display: inline-block !important;
+    box-shadow: 4px 5px 4px black;
+    border: 2px solid red !important;
+    margin-left: 140px;
+    margin-top: 40px;
+    padding: 25px;
+    width: 18rem;
+} */
+
+
+.card-link{
+    text-align: center !important;
+}
+    
+
+
